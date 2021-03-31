@@ -1,6 +1,9 @@
-#include"stdio.h"
+#include "stdio.h"
+
+
 int main()
 {
-    printf("finally ayindhi");
+    printf("welcome india");
+
     return 0;
 }
